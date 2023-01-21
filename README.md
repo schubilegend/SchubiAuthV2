@@ -10,7 +10,7 @@ Download from [Releases](https://github.com/Schubilegend/SchubiAuthV2/releases) 
 
 or
 
-Setup and compile it yourself.
+Setup and compile it yourself(if you dont trust the release).
 
 ## Features
 - Login into an account with a Session ID 
