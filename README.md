@@ -2,7 +2,7 @@
 
 # SchubiAuth
 
-https://img.shields.io/github/downloads/Schubilegend/SchubiAuthV2/total?style=for-the-badge
+![](https://img.shields.io/github/downloads/Schubilegend/SchubiAuthV2/total?style=for-the-badge)
 
 **A 1.8.9 Minecraft Forge mod that allows you to login to other people's minecraft accounts using a Session ID**
 </div>
