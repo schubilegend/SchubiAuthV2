@@ -23,5 +23,8 @@ Setup and compile it yourself(if you dont trust the release).
 - Allows you to change the skin of the account you are logged in with using an url (e.g. http://assets.mojang.com/SkinTemplates/steve.png to change it to a steve skin)
 - Simple to use
 
+## Important
+Session Validation as well as Name- & Skinchanging do NOT work with Pizza Client Session Protection enabled.
+
 ## Disclaimer
 This is for educational purposes only. I am not responsible for any damage caused by this tool.
