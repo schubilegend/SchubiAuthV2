@@ -7,6 +7,8 @@
 **A 1.8.9 Minecraft Forge mod that allows you to login to other people's minecraft accounts using a Session ID**
 </div>
 
+## [Support Server](https://discord.gg/a7j2kJ9ktz)
+
 ## Download
 Download from [Releases](https://github.com/Schubilegend/SchubiAuthV2/releases) and drag that into your mod folder.
 
