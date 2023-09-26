@@ -14,6 +14,8 @@ or
 
 Setup and compile it yourself(if you dont trust the release).
 
+### Add a ⭐️ if everything works for you❤️
+
 ## Features
 - Login into an account with a Session ID 
 - Restore your original Session
