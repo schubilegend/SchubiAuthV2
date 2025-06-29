@@ -7,6 +7,9 @@
 **A 1.8.9 Minecraft Forge mod that allows you to login to other people's minecraft accounts using a Session ID**
 </div>
 
+## Looking for 1.21 Support?
+Check out [Majanito/Fabric-Session-Login](https://github.com/Majanito/Fabric-Session-Login) for a compatible version.
+
 ## Download
 Download from [Releases](https://github.com/Schubilegend/SchubiAuthV2/releases) and drag that into your mod folder.
 
